@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; SONIC PLATFORMS</title>
-	<atom:link href="https://sonic1231.github.io/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://sonic1231.github.io</link>
+	<atom:link href="https://sonic1231.github.io/sonic-platforms/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sonic1231.github.io/sonic-platforms</link>
 	<description></description>
 	<lastBuildDate>Tue, 16 Oct 2018 13:53:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,47 +19,47 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>dsdsd</title>
-		<link>https://sonic1231.github.io/2018/09/17/dsdsd/</link>
-		<comments>https://sonic1231.github.io/2018/09/17/dsdsd/#respond</comments>
+		<link>https://sonic1231.github.io/sonic-platforms/2018/09/17/dsdsd/</link>
+		<comments>https://sonic1231.github.io/sonic-platforms/2018/09/17/dsdsd/#respond</comments>
 		<pubDate>Mon, 17 Sep 2018 12:52:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[test2]]></category>
 
-		<guid isPermaLink="false">https://sonic1231.github.io/?p=16</guid>
+		<guid isPermaLink="false">https://sonic1231.github.io/sonic-platforms/?p=16</guid>
 		<description><![CDATA[dcdcdxc]]></description>
 				<content:encoded><![CDATA[<p>dcdcdxc</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://sonic1231.github.io/2018/09/17/dsdsd/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sonic1231.github.io/sonic-platforms/2018/09/17/dsdsd/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>sdsdsd</title>
-		<link>https://sonic1231.github.io/2018/09/17/sdsdsd/</link>
-		<comments>https://sonic1231.github.io/2018/09/17/sdsdsd/#respond</comments>
+		<link>https://sonic1231.github.io/sonic-platforms/2018/09/17/sdsdsd/</link>
+		<comments>https://sonic1231.github.io/sonic-platforms/2018/09/17/sdsdsd/#respond</comments>
 		<pubDate>Mon, 17 Sep 2018 12:52:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[test]]></category>
 
-		<guid isPermaLink="false">https://sonic1231.github.io/?p=14</guid>
+		<guid isPermaLink="false">https://sonic1231.github.io/sonic-platforms/?p=14</guid>
 		<description><![CDATA[cxcdxcx]]></description>
 				<content:encoded><![CDATA[<p>cxcdxcx</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://sonic1231.github.io/2018/09/17/sdsdsd/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sonic1231.github.io/sonic-platforms/2018/09/17/sdsdsd/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://sonic1231.github.io/2018/09/17/hello-world/</link>
-		<comments>https://sonic1231.github.io/2018/09/17/hello-world/#comments</comments>
+		<link>https://sonic1231.github.io/sonic-platforms/2018/09/17/hello-world/</link>
+		<comments>https://sonic1231.github.io/sonic-platforms/2018/09/17/hello-world/#comments</comments>
 		<pubDate>Mon, 17 Sep 2018 12:43:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https://sonic1231.github.io/?p=1</guid>
+		<guid isPermaLink="false">https://sonic1231.github.io/sonic-platforms/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://sonic1231.github.io/2018/09/17/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://sonic1231.github.io/sonic-platforms/2018/09/17/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
