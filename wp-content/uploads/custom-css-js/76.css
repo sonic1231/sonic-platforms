@@ -136,3 +136,11 @@ body footer.site-footer
   background:#fff;
   border-top:0px solid #ddd;
 }
+
+@media only screen and (max-width:550px)
+{
+	body a.abtlink
+	{
+		margin-bottom:30px;
+	}
+}
